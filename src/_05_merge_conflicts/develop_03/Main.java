@@ -1,4 +1,4 @@
-package _05_merge_conflicts.develop_02;
+package _05_merge_conflicts.develop_03;
 
 public class Main {
 
@@ -14,6 +14,8 @@ public class Main {
     }
 
     public static void main(String[] args){
+
+        System.out.println("Version 1.0");
 
         double tenMiles = 10;
         double tenMilesInKilometers = mileConverterToKilometers(tenMiles);
