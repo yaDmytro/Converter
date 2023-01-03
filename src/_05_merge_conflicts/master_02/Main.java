@@ -1,4 +1,4 @@
-package _03_changes.master_02;
+package _05_merge_conflicts.master_02;
 import java.lang.*;
 
 public class Main {
